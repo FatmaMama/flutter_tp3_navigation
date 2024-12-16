@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "796044680835",
+    "project_id": "fluttertest-c773f",
+    "storage_bucket": "fluttertest-c773f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796044680835:android:396ab1a1b949c4254d45b6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_tp3_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796044680835-61783k2rdna7t75lccd3dumt55p8tsso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9IgkYCKRyTUJNrgfWhZ48ZnP_E-b87gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796044680835-61783k2rdna7t75lccd3dumt55p8tsso.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "796044680835-iaisbttst9825j8vhphq1ger10e1md15.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterTp3Navigation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
